@@ -1,0 +1,84 @@
+{
+    "status": "ok",
+    "totalResults": 6,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "AFP",
+            "title": "Shane Warne, spin genius with a soap-opera life",
+            "description": "Shane Warne mixed legendary cricket deeds with lurid headlines away from the pitch in a career as bewitching as his famed wrong 'un.",
+            "url": "https://www.news24.com/sport/Cricket/shane-warne-spin-genius-with-a-soap-opera-life-20220306",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/3269/f00e785e22004707a7ffac8520a81bd7.jpg",
+            "publishedAt": "2022-03-06T07:03:31+00:00",
+            "content": "Shane Warne mixed legendary cricket deeds with lurid headlines away from the pitch in a career as bewitching as his famed wrong 'un.\r\nWarne, who died at the age of 52 from a suspected heart attack on… [+4211 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news-au",
+                "name": "ABC News (AU)"
+            },
+            "author": "ABC News",
+            "title": "Shane Warne's family accepts Victorian government's offer of state funeral after cricket star's death in Thailand",
+            "description": "The family of former Australian cricketer Shane Warne accepts the Victorian government's offer of a state funeral, with details of the service to be released in the coming days.",
+            "url": "http://www.abc.net.au/news/2022-03-06/shane-warne-to-receive-state-funeral-after-family-accepts-offer/100886834",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/3591737830395bfe38d64469bd1c05a5?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=315&width=862&height=485",
+            "publishedAt": "2022-03-06T06:15:13Z",
+            "content": "The family of former Australian cricketer Shane Warne has accepted the Victorian government's offer of a state funeral, with details of the service to be released in the coming days.\r\nKey points:\r\n<u… [+1754 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-au",
+                "name": "Google News (Australia)"
+            },
+            "author": "Mazoe Ford",
+            "title": "Shane Warne's body arrives at Surat Thani for autopsy after removal from Koh Samui",
+            "description": "The body of Australian cricketing great Shane Warne has been taken from the Thai holiday island of Koh Samui to the mainland for an autopsy.",
+            "url": "https://www.abc.net.au/news/2022-03-06/body-of-shane-warne-leaves-koh-samui-for-thailand-autopsy/100886674",
+            "urlToImage": "https://live-production.wcms.abc-cdn.net.au/fc58e88c1510a1a9a1855570123a3bda?impolicy=wcms_crop_resize&cropH=2268&cropW=4032&xPos=0&yPos=378&width=862&height=485",
+            "publishedAt": "2022-03-06T06:11:15+00:00",
+            "content": "The body of Australian cricketing great Shane Warne has arrived at Surat Thani hospital, on mainland Thailand, for an autopsy, after being moved from the Thai holiday island of Koh Samui.\r\nKey points… [+1736 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-sport",
+                "name": "BBC Sport"
+            },
+            "author": "BBC Sport",
+            "title": "Pakistan Women v India Women - Cricket - BBC Sport",
+            "description": "Find out the in depth batting and bowling figures for Pakistan Women v India Women in the ICC Women's World Cup on BBC Sport.",
+            "url": "https://www.bbc.co.uk/sport/cricket/scorecard/ECKO49803",
+            "urlToImage": "https:////m.files.bbci.co.uk/modules/bbc-morph-sport-seo-meta/1.22.0/images/bbc-sport-logo.png",
+            "publishedAt": "2022-03-06T00:52:20.818533Z",
+            "content": "Pakistan Women\r\n<ul><li>Javeria Khan</li><li>Sidra Amin</li><li>Bismah Maroof(c)</li><li>Umaima Sohail</li><li>Nida Dar</li><li>Aliya Riaz</li><li>Fatima Sana Khan</li><li>Diana Baig</li><li>Nashra S… [+334 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+            "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+            "publishedAt": "2020-04-27T11:41:47Z",
+            "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+        },
+        {
+            "source": {
+                "id": "espn-cric-info",
+                "name": "ESPN Cric Info"
+            },
+            "author": null,
+            "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+            "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+            "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+            "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+            "publishedAt": "2020-03-30T15:26:05Z",
+            "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+        }
+    ]
+}
